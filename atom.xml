@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/dsfhux5.github.io</id>
     <title>Gridea</title>
-    <updated>2020-05-18T16:56:19.445Z</updated>
+    <updated>2020-05-19T14:04:50.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/dsfhux5.github.io"/>
     <link rel="self" href="https://github.com/dsfhux5.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://github.com/dsfhux5.github.io/images/avatar.png</logo>
     <icon>https://github.com/dsfhux5.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://github.com/dsfhux5.github.io/post/test/</id>
+        <link href="https://github.com/dsfhux5.github.io/post/test/">
+        </link>
+        <updated>2020-05-19T14:04:37.000Z</updated>
+        <content type="html"><![CDATA[<p>test</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://github.com/dsfhux5.github.io/post/hello-gridea/</id>
